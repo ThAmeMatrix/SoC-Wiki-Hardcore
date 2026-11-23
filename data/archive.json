@@ -1,0 +1,17 @@
+{
+  "expectedPages": 2797,
+  "wikiSnapshotExpectedPages": 0,
+  "pages": 2797,
+  "counts": {
+    "character": 163,
+    "status": 959,
+    "skill": 1252,
+    "talent": 246,
+    "equipment": 177
+  },
+  "complete": true,
+  "clientSupplement": {
+    "characters": 163,
+    "version": "6389571"
+  }
+}
